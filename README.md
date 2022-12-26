@@ -59,4 +59,5 @@ This is my personal website. Thanks for coming by! On this website, I've been wo
 - As boring as this sounds, I think it'd be cool to have a webpage/site designed to display the emails I've sent over the years and the progress in business communication that I've learned. 
 
 Started December 2021
+
 Last updated: December 2022
