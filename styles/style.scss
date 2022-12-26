@@ -74,12 +74,18 @@
   .sec5 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: saddlebrown;
   }
 
   .sec6 {
     display: none;
     transform: translateY(0) scale(1);
   }
+
+  .active-btn{
+    display:block;
+  }
+
 // Controls
 .controls{
   position: fixed;
