@@ -2,7 +2,7 @@
 
 
 This is my personal website. Thanks for coming by! On this website, I've been working or are planning to work on the following projects: 
-1. [Photo Archive](#photo-archive)
+1. [Photo Archive and Traveling](#photo-archive)
 2. [Canadian Hackathon List](#canadian-hackathon-list)
 3. [School and Course Work](#schoolcourse-work-display)
 4. [Robotics](#robotics)
@@ -17,8 +17,7 @@ This is my personal website. Thanks for coming by! On this website, I've been wo
 
 ## Photo Archive
 - I currently store my favourite photos from the past few years here!
-- One of my most favourite photos is this the one that I took at Inglis Falls in 2021.  
-![Inglis Falls](/images/img/ontario_waterfall.jpg)
+- I've done a lot of traveling and I think it'd be cool to display the places I've been to.
 
 ## Canadian Hackathon List
 - Hackathons are a passion of mine. I don't know why, but Canada doesn't have a great list of all the hackathons that happen in Canada. I'm on a mission to bring hackathon awareness to others. 
