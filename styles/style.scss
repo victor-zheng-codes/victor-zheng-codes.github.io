@@ -12,6 +12,7 @@
     --color-white: #FFF;
     --color-black: #000;
     --color-grey: #524f4f;
+    --color-grey2: #949494;
   }
   
   body {
@@ -75,16 +76,29 @@
     transform: translateY(0) scale(1);
   }
 
+  .sec6 {
+    display: none;
+    transform: translateY(0) scale(1);
+  }
 // Controls
 .controls{
   position: fixed;
   z-index: 10;
   top:50%;
-  right:3%;
+  left:3%;
   flex-direction: column;
   transform:translateY(-50%);
   align-items: center;
   justify-content: center;
+
+  .active-btn{
+    background-color: var(--color-secondary) !important;
+    transition: all .4s ease-in-out;
+    i{
+        color: var(color --color-white) !important;
+    }
+  }
+
   // for the buttons
   .control{
     padding:1rem;
@@ -96,7 +110,11 @@
     border-radius: 50%;
     align-items: center;
     justify-content: center;
-    margin: .7rem 0;
-    
+    margin: .8rem 0;
+    i{ // button icons
+        color: var(color --color-grey2);
+        font-size: 1.2rem;
+        pointer-events: none;
+    }
   }
 }
