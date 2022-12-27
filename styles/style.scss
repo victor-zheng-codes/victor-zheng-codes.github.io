@@ -61,15 +61,20 @@
   
   .sec2 {
     display: none;
+    background-color: lightgoldenrodyellow;
     transform: translateY(0) scale(1);
   }
   .sec3 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: lightblue;
+
   }
   .sec4 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: lightcoral;
+
   }
   .sec5 {
     display: none;
@@ -79,10 +84,11 @@
 
   .sec6 {
     display: none;
+    background-color: lightseagreen;
     transform: translateY(0) scale(1);
   }
 
-  .active-btn{
+  .active{
     display:block;
   }
 
@@ -101,7 +107,7 @@
     background-color: var(--color-secondary) !important;
     transition: all .4s ease-in-out;
     i{
-        color: var(color --color-white) !important;
+        color: var(color --color-grey) !important;
     }
   }
 
