@@ -127,6 +127,7 @@
 .header-content{
   display:flex;
   height:100%;
+  overflow: scroll;
 
   .right-header{
     flex: 50%;
@@ -242,10 +243,13 @@
     margin-left: 1rem;
   }
   .left-header {
-    height: 50%;
+    height: 80%;
     .cut-shape{
       display: none;
     }
+  }
+  .image-home{
+    margin-left: 1rem !important;
   }
   .page-content{
     max-width: 80vw;
