@@ -124,6 +124,7 @@ section {
 .header-content {
   display: flex;
   height: 100%;
+  overflow: scroll;
 }
 .header-content .right-header {
   flex: 50%;

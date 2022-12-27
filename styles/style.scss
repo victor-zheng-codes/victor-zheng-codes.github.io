@@ -127,6 +127,7 @@
 .header-content{
   display:flex;
   height:100%;
+  overflow: scroll;
 
   .right-header{
     flex: 50%;
@@ -246,6 +247,9 @@
     .cut-shape{
       display: none;
     }
+  }
+  .right-header{
+    // max-height: 80vw;
   }
   .page-content{
     max-width: 80vw;
