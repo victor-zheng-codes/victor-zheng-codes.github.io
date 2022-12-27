@@ -53,7 +53,7 @@ section {
 }
 
 .sec1 {
-  display: none;
+  display: flex;
   transform: translateY(0) scale(1);
   color: var(--color-white);
 }
@@ -172,8 +172,6 @@ section {
   width: auto;
   border-radius: 30px;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
   transition: var(--transition-speed);
 }
 

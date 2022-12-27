@@ -53,7 +53,7 @@
   }
 
   .sec1 {
-    display: none;
+    display: flex;
     transform: translateY(0) scale(1);
     color: var(--color-white);
     // text-align: center;
@@ -179,18 +179,13 @@
         width: auto;
         border-radius: 30px;
         height: 100%;
-        object-fit:cover;
         transition: var(--transition-speed);
-        // filter: grayscale(100%);
-        // &:hover{
-        //   filter:grayscale(0);
-        // }
       }
     }
   }
 }
 
-
+// added responsiveness
 @media only screen and (max-width: 768px) {
   // for mobile phones
     
