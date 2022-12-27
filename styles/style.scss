@@ -132,7 +132,7 @@
   height:100%;
 
   .right-header{
-    flex: 50%;
+    flex: 70%;
     display:flex;
     flex-direction: column;
     justify-content:center;
@@ -157,7 +157,7 @@
 
     .cut-shape{
       transition: var(--transition-speed);
-      width:100%;
+      width:80%;
       height:100%;
       background-color: var(--color-secondary);
       position:absolute;
@@ -188,4 +188,22 @@
       }
     }
   }
+}
+
+
+@media only screen and (max-width: 768px) {
+  // for mobile phones
+    
+  .header-content{
+    display:inline-block;
+    height:100%;
+    margin-left: 1rem;
+  }
+  .left-header {
+    height: 50%;
+    .cut-shape{
+      display: none;
+    }
+  }
+
 }
