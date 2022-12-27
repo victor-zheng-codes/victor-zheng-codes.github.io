@@ -22,15 +22,15 @@ function PageTransitions(){
                 button.classList.remove('active')
             })
             e.target.classList.add('active')
+
+            // hide other sections
+            sections.forEach((section)=>{
+                section.classList.remove('active')
+            })
+
+            const element = document.getElementById(id);
+                element.classList.add('active')
         }
-
-        // hide other sections
-        sections.forEach((section)=>{
-            section.classList.remove('active')
-        })
-
-        const element = document.getElementById(id);
-        element.classList.add('active')
     })
 }
 
