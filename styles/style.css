@@ -43,7 +43,6 @@ section {
   position: absolute;
   left: 0;
   top: 0;
-  padding: 3rem 18rem;
 }
 
 .section {
@@ -53,7 +52,7 @@ section {
 }
 
 .sec1 {
-  display: inherit;
+  display: block;
   transform: translateY(0) scale(1);
   color: var(--color-white);
 }
@@ -164,14 +163,14 @@ section {
           clip-path: polygon(0 0, 70% 0, 100% 100%, 0% 100%);
   max-width: 50vw;
 }
-.header-content .left-header .image {
+.header-content .left-header .image-home {
   border-radius: 30px;
   height: 90%;
   max-width: 50vw;
   margin-left: 3rem;
   transition: var(--transition-speed);
 }
-.header-content .left-header .image img {
+.header-content .left-header .image-home img {
   width: auto;
   border-radius: 30px;
   height: 100%;
@@ -179,6 +178,7 @@ section {
 }
 
 .page-content {
+  padding: 3rem 18rem;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -202,10 +202,27 @@ section {
   color: var(--color-white);
   padding: 1rem 0.5rem;
   margin-top: 30px;
-  background-color: var(--color-grey2);
+  background-color: var(--color-grey);
   border-radius: 10px;
-  font-size: 1rem;
+  border-color: var(--color-white);
+  font-size: 1.2rem;
+  font-family: "Montserrat", sans-serif;
   cursor: pointer;
+}
+
+.image {
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  transition: var(--transition-speed);
+}
+.image img {
+  border-radius: 30px;
+  display: block;
+  transition: var(--transition-speed);
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 @media only screen and (max-width: 700px) {
@@ -223,16 +240,18 @@ section {
   .page-content {
     max-width: 80vw;
     text-align: left;
-    padding-right: 20px;
+    padding: 3rem 2rem;
     margin-left: 1rem;
     margin-right: 1rem;
-    position: absolute;
-    left: 0;
   }
   .page-content h2 {
     font-size: 2rem;
   }
   .page-content .controls {
     left: 3%;
+  }
+  .image img {
+    width: 70%;
+    margin-left: 3rem;
   }
 }/*# sourceMappingURL=style.css.map */
