@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Victor Zheng</title>
-    <link>https://blog.victorzheng.ca/categories/</link>
+    <link>https://victorzheng.ca/categories/</link>
     <description>Recent content in Categories on Victor Zheng</description>
     <image>
-      <url>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2023 15:18:04 -0500</lastBuildDate><atom:link href="https://blog.victorzheng.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 15:18:04 -0500</lastBuildDate><atom:link href="https://victorzheng.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>robotics</title>
-      <link>https://blog.victorzheng.ca/categories/robotics/</link>
+      <link>https://victorzheng.ca/categories/robotics/</link>
       <pubDate>Sun, 03 Dec 2023 15:18:04 -0500</pubDate>
       
-      <guid>https://blog.victorzheng.ca/categories/robotics/</guid>
+      <guid>https://victorzheng.ca/categories/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XdHacks-Mini</title>
-      <link>https://blog.victorzheng.ca/categories/xdhacks-mini/</link>
+      <link>https://victorzheng.ca/categories/xdhacks-mini/</link>
       <pubDate>Sun, 03 Dec 2023 00:18:53 -0800</pubDate>
       
-      <guid>https://blog.victorzheng.ca/categories/xdhacks-mini/</guid>
+      <guid>https://victorzheng.ca/categories/xdhacks-mini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chess-club</title>
-      <link>https://blog.victorzheng.ca/categories/chess-club/</link>
+      <link>https://victorzheng.ca/categories/chess-club/</link>
       <pubDate>Thu, 05 Oct 2023 00:19:07 -0800</pubDate>
       
-      <guid>https://blog.victorzheng.ca/categories/chess-club/</guid>
+      <guid>https://victorzheng.ca/categories/chess-club/</guid>
       <description></description>
     </item>
     
     <item>
       <title>university</title>
-      <link>https://blog.victorzheng.ca/categories/university/</link>
+      <link>https://victorzheng.ca/categories/university/</link>
       <pubDate>Mon, 06 Mar 2023 00:20:59 -0800</pubDate>
       
-      <guid>https://blog.victorzheng.ca/categories/university/</guid>
+      <guid>https://victorzheng.ca/categories/university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tennis-club</title>
-      <link>https://blog.victorzheng.ca/categories/tennis-club/</link>
+      <link>https://victorzheng.ca/categories/tennis-club/</link>
       <pubDate>Tue, 25 Oct 2022 23:14:49 -0800</pubDate>
       
-      <guid>https://blog.victorzheng.ca/categories/tennis-club/</guid>
+      <guid>https://victorzheng.ca/categories/tennis-club/</guid>
       <description></description>
     </item>
     

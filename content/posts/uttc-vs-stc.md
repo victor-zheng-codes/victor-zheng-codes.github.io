@@ -56,7 +56,7 @@ Our Club members came out strong, winning most of the singles matches, and givin
 
 |![](/posts/post-files/uttc-vs-stc/UTTC5.jpg)|
 | :--: |
-| <b>The team that competed consisted of players who had done well at the [2022 Club Championship](https://blog.victorzheng.ca/posts/2022-uoft-tennis-club-championship/).</b>|
+| <b>The team that competed consisted of players who had done well at the [2022 Club Championship](https://victorzheng.ca/posts/2022-uoft-tennis-club-championship/).</b>|
 
 When the matches were over, the pizza arrived and the medals were handed out to our members. Congrats to the team consisting of: Wenda, Arya, Takeshi, Tony, Mau, Jerry, Cayce, Linda, and Bang! 
 

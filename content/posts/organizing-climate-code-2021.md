@@ -109,4 +109,4 @@ Here is the full Opening Ceremony for the event
 
 I have linked the website here, so that if the site is down, it'll be visible still: 
 
-https://blog.victorzheng.ca/posts/post-files/climate-code-2021/climatecode
+https://victorzheng.ca/posts/post-files/climate-code-2021/climatecode
