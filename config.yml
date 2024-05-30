@@ -1,0 +1,138 @@
+baseURL: "https://blog.victorzheng.ca/"
+languageCode: en-us
+title: Victor Zheng
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Victor Zheng's Blog Site
+  description: "Welcome to my blog page!"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  ShowToc: true
+  TocOpen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/static/chess_design_favicon.png?raw=true"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Victor Zheng
+    subtitle: "Student at the University of Toronto"
+    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/resources/images/victor-zheng.jpg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Archive
+        url: archives
+      - name: About
+        url: about
+
+  # home-info mode
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/victor-zheng1/"
+    - name: instagram
+      url: "https://instagram.com/victor.zheng900"
+    - name: github
+      url: "https://github.com/victor-zheng-codes"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/victor-zheng-codes/"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 15
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 15
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 20
+    - identifier: main-website
+      name: victorzheng.ca
+      url: https://victorzheng.ca
+      weight: 30
+    
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

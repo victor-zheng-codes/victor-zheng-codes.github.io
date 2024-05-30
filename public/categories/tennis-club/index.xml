@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tennis-club on Victor Zheng</title>
+    <link>https://blog.victorzheng.ca/categories/tennis-club/</link>
+    <description>Recent content in tennis-club on Victor Zheng</description>
+    <image>
+      <url>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2022 23:14:49 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.ca/categories/tennis-club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organizing the Fall 2022 UofT Tennis Club vs Skule Tennis Club Match</title>
+      <link>https://blog.victorzheng.ca/posts/uttc-vs-stc/</link>
+      <pubDate>Tue, 25 Oct 2022 23:14:49 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/posts/uttc-vs-stc/</guid>
+      <description>On October 24, 2022, I organized the Fall 2022 Skule Tennis Club (STC) vs UofT Tennis Club (UTTC) match, which resulted in a resounding victory for UTTC 11-5. Going in to the match, I had worked with Sara, STC&amp;rsquo;s President to make sure that we had everything ready to go and people to play against. I also worked with Sir Winston Churchill Park Tennis Club by booking the courts for a very low cost of $10 per member for 4 hours from 3pm-7pm.</description>
+    </item>
+    
+    <item>
+      <title>2022 UofT Tennis Club Championship</title>
+      <link>https://blog.victorzheng.ca/posts/2022-uoft-tennis-club-championship/</link>
+      <pubDate>Mon, 10 Oct 2022 20:50:28 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/posts/2022-uoft-tennis-club-championship/</guid>
+      <description>I organized and ran a successful Club Championship with 54 players!</description>
+    </item>
+    
+    <item>
+      <title>Varsity Feature for the UofT Tennis Club</title>
+      <link>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</link>
+      <pubDate>Thu, 06 Oct 2022 20:59:16 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</guid>
+      <description>A feature on the UofT Tennis Club from The Varsity</description>
+    </item>
+    
+  </channel>
+</rss>
