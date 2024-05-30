@@ -21,7 +21,7 @@ outputs:
     - JSON # necessary for search
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengra`ph`, twitter-cards and schema.
   title: Victor Zheng's Blog Site
   description: "Welcome to my blog page!"
   keywords: [Blog, Portfolio]
@@ -61,7 +61,7 @@ params:
     imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Website/main/resources/images/victor-zheng.jpg"
     imageWidth: 200
     imageHeight: 200
-    imageTitle: my image
+    imageTitle: Victor Zheng
     buttons:
       - name: Posts
         url: posts
@@ -69,11 +69,10 @@ params:
         url: archives
       - name: About
         url: about
-
-  # home-info mode
-  # homeInfoParams:
-  #   Title: "Hi there \U0001F44B"
-  #   Content: Welcome to my blog
+      - name: Tags
+        url: tags
+      - name: Categories
+        url: categories
 
   socialIcons:
     - name: linkedin
@@ -89,7 +88,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/victor-zheng-codes/"
+    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -113,20 +112,10 @@ menu:
       name: About
       url: /about/
       weight: 15
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 15
     - identifier: archive
       name: Archive
       url: /archives/
       weight: 20
-    - identifier: main-website
-    - identifier: photos
-      name: Photos
-      url: /photo-archive/
-      weight: 20
-    - identifier: main-website
     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
