@@ -10,17 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 18:58:22 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2024 Canada Zonal</title>
-      <link>https://victorzheng.ca/posts/2024-canada-zonal/</link>
-      <pubDate>Fri, 17 May 2024 18:58:22 -0400</pubDate>
-      
-      <guid>https://victorzheng.ca/posts/2024-canada-zonal/</guid>
-      <description>This was a post that I wrote on the Hart House Chess Club website as a summary of the 2024 Canadian National Chess Championship (Zonals).
-The 2024 Canadian Zonal and Women Zonal was hosted at Hart House of the University of Toronto from March 27th – April 2nd, 2024. Over Easter, 258 players and their families participated in 5 sections and many side events. A record-breaking 47 women’s players played in the biggest Canada Women Zonal in history alongside 61 players in the Open Zonal.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 03 Dec 2023 15:18:04 -0500</lastBuildDate><atom:link href="https://victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robotics Blogs</title>
       <link>https://victorzheng.ca/posts/robotics-blogs/</link>
@@ -100,6 +90,18 @@ Please see below for the text (no images) that I wrote for the event.</descripti
       <guid>https://victorzheng.ca/posts/panam-chess-tournament/</guid>
       <description>I was honoured earlier this year to have the opportunity to attend and write the official event report from the Hart House Chess Club&amp;rsquo;s PanAmerican Intercollegiate Chess Tournament in Seattle, Washington. As a player in the tournament and the lead organizer for the team&amp;rsquo;s trip, it was as no-brainer for me to also write the event report. The report can be accessed here: https://harthousechess.com/2023/01/22/uoft-makes-a-splash-at-the-2023-panamerican-intercollegiate-chess-championship/.
 From January 5th – 9th, 2023, eight UofT students travelled over 3316 kilometers to Seattle, Washington, USA, for the annual Pan American Intercollegiate Chess Championship, the pinnacle of international collegiate chess.</description>
+    </item>
+    
+    <item>
+      <title>Scrabble Course Project Csc207</title>
+      <link>https://victorzheng.ca/posts/scrabble-course-project-csc207/</link>
+      <pubDate>Tue, 03 Jan 2023 00:21:24 -0800</pubDate>
+      
+      <guid>https://victorzheng.ca/posts/scrabble-course-project-csc207/</guid>
+      <description>In 2022, my team created a re-write of Scrabble. For all the details, visit our team site here: https://github.com/CSC207-2022F-UofT/course-project-scrabble.
+Overall, the project was very exciting and my team had a lot of fun. I&amp;rsquo;ve attached our Readme.md below in case we missed it. Alongside the PDF explaining our software design. I was mainly responsible for the UI design.
+PDF of software design: download the pdf here
+Scrabble Welcome to Scrabble, a game played and loved by millions around the world.</description>
     </item>
     
     <item>

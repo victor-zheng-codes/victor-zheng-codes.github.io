@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>comp-science on Victor Zheng</title>
+    <link>https://victorzheng.ca/tags/comp-science/</link>
+    <description>Recent content in comp-science on Victor Zheng</description>
+    <image>
+      <url>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2023 00:21:24 -0800</lastBuildDate><atom:link href="https://victorzheng.ca/tags/comp-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrabble Course Project Csc207</title>
+      <link>https://victorzheng.ca/posts/scrabble-course-project-csc207/</link>
+      <pubDate>Tue, 03 Jan 2023 00:21:24 -0800</pubDate>
+      
+      <guid>https://victorzheng.ca/posts/scrabble-course-project-csc207/</guid>
+      <description>In 2022, my team created a re-write of Scrabble. For all the details, visit our team site here: https://github.com/CSC207-2022F-UofT/course-project-scrabble.
+Overall, the project was very exciting and my team had a lot of fun. I&amp;rsquo;ve attached our Readme.md below in case we missed it. Alongside the PDF explaining our software design. I was mainly responsible for the UI design.
+PDF of software design: download the pdf here
+Scrabble Welcome to Scrabble, a game played and loved by millions around the world.</description>
+    </item>
+    
+  </channel>
+</rss>
