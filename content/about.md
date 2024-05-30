@@ -41,7 +41,7 @@ I'll be publishing blogs and other cool projects here when I have the opportunit
 		
 ## Contact
 
-Please contact me via my [LinkedIn](https://www.linkedin.com/in/victor-zheng1) or consider dropping me an email at [victork.zheng@mail.utoronto.ca](mailto:victork.zheng@mail.utoronto.ca)
+Please contact me via my [LinkedIn](https://www.linkedin.com/in/victor-zheng1) or consider dropping me an email at [hello@victorzheng.ca](mailto:hello@victorzheng.ca)
 
 ## Photography
 
