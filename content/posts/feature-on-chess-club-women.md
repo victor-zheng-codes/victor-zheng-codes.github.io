@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/women-chess/uoft-at-the-2023-panams-in-seattle_(2).jpg?raw=true" # image path/url
+    image: "/posts/post-files/women-chess/uoft-at-the-2023-panams-in-seattle_(2).jpg?raw=true" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -39,7 +39,7 @@ The original post is accessible here: [https://harthouse.ca/blog/the-ascent-of-t
 
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/women-chess/hero_womeninchess.jpg?raw=true)|
+|![](/posts/post-files/women-chess/hero_womeninchess.jpg?raw=true)|
 | :--: |
 | <b>Women's Chess is strong at UofT as of 2023</b>|
 

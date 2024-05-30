@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/robotics_2019.jpg?raw=true" # image path/url
+    image: "/posts/post-files/robotics/robotics_2019.jpg?raw=true" # image path/url
     alt: "Picture of robot from TFA Juniors Robotics" # alt text
     caption: "One of our robots for RoboCup Junior Maze" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -39,7 +39,7 @@ We were a team of high-school students operating 3-5 days a week after-school, w
 
 We competed in National tournaments and International tournaments. In particular, the best experience for me was an event held in Sydney, Australia in 2019 for RoboCup Junior 2019. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/firefighting%20awards.jpg?raw=true)|
+|![](/posts/post-files/robotics/firefighting%20awards.jpg?raw=true)|
 | :--: |
 | <b>RoboRave Firefighting in 2019 in Albuquerque, New Mexico</b>|
 
@@ -60,7 +60,7 @@ I was part of teams from 2018 to 2021, with achievements including:
 2018
 * RoboCup Junior Canada West, Rescue, 1st Place (December)
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/firefighting.jpg?raw=true)|
+|![](/posts/post-files/robotics/firefighting.jpg?raw=true)|
 | :--: |
 | <b>RoboRave Firefighting in 2019 in Albuquerque, New Mexico</b>|
 
@@ -79,7 +79,7 @@ By detecting a red circle, the TFA Junior Robotics Team can possibly detect a he
 The original plan was in reading an image and using OpenCV to detect the red circles. However, after applying a mask, the results were unexpected.  This can be seen in the image below.
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/unexpected.JPG?raw=true)|
+|![](/posts/post-files/robotics/unexpected.JPG?raw=true)|
 | :--: |
 | <b>Unexpected result of finding red values<b>|
 
@@ -87,32 +87,32 @@ After realizing that the results were unexpected, the team investigated the situ
 
 The new image was all dark, and seemed to only have 1 channel. Therefore, the team went back to the drawing board. From there, the team brainstormed and determined that they should attempt to read the image array data into another file. This took many attempts, as seen in the photos below…
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/mixed-up-channels.JPG?raw=true)|
+|![](/posts/post-files/robotics/mixed-up-channels.JPG?raw=true)|
 | :--: |
 | <b>Reading the image into a new file<b>|
 
 After correcting the colour, the team found that the image was upside down. Therefore, the team created an algorithm to flip the image data across the centre line. The result was a righted image as shown below. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/recorrected.JPG?raw=true)|
+|![](/posts/post-files/robotics/recorrected.JPG?raw=true)|
 | :--: |
 | <b>Flipping the image<b>|
 
 As seen in the above photo, the team proceeded to display the image via the display function. The team did this by reading the file that was previously written by the Pillow Library.  
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/proceeding_to_test_images.png?raw=true)|
+|![](/posts/post-files/robotics/proceeding_to_test_images.png?raw=true)|
 | :--: |
 | <b>Here we began to display the image using the display function<b>|
 
 
 Following this, the team proceeded to begin creating and testing a mask. Through writing a mask algorithm that detected the highest and lowest thresholds for the red mask, the team was able to slightly detect the red image. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/red-detection-in-the-RoboCUp.png?raw=true)|
+|![](/posts/post-files/robotics/red-detection-in-the-RoboCUp.png?raw=true)|
 | :--: |
 | <b>Red detection with a mask<b>|
 
 From there, the team played around with both the output and the algorithm to see which methods would find the red the best. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/masked_result.png?raw=true)|
+|![](/posts/post-files/robotics/masked_result.png?raw=true)|
 | :--: |
 | <b>Masked result after all filtering<b>|
 
@@ -123,7 +123,7 @@ UPDATE: As of March 28, 2021, there seems to be no heated victims in future comp
 Here is a close up of the red detection and the resulting mask.
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/original_to_new.png?raw=true)|
+|![](/posts/post-files/robotics/original_to_new.png?raw=true)|
 | :--: |
 | <b>Original to new at the end<b>|
 
@@ -141,7 +141,7 @@ The following are some methods that the TFA Junior Robotics Team has analyzed to
 This idea involves finding other objects in the field. This objects could include obstacles, walls, checkpoints, swamps, and/or black holes. By detecting other objects in the field, the TFA team is able to optimize scoring and therefore, score more points. The team is also able to use the camera as a way to cross check with other sensors, and therefore, improve the robustness of the robot. 
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/object_detection.png?raw=true)|
+|![](/posts/post-files/robotics/object_detection.png?raw=true)|
 | :--: |
 | <b>Object detection algorithms?<b>|
 
@@ -150,7 +150,7 @@ This idea involves finding other objects in the field. This objects could includ
 
 Another possible implementation would be using C instead of Python to increase processing speed for use on algorithms on an embedded systems in the future. Previously, the TFA Junior Robotics had intended to test the team’s algorithms through the Webots Display, however, the team is now leaning towards writing it’s code through image processing algorithms in C, and extending it to python. This allows the team to possibly not use the OpenCV library, and develop a specialized library for the team itself. It also allows the team to embed image processing algorithms into other devices, in a post pandemic world. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/obstacle1H.png?raw=true)|
+|![](/posts/post-files/robotics/obstacle1H.png?raw=true)|
 | :--: |
 | <b>Better letter detection algorithms?<b>|
 
@@ -160,7 +160,7 @@ Something that the TFA Junior Robotics Team attempted during the RCJ Rescue Simu
 
 If the team is able to do this, then they can possibly be able to head straight towards the heated victim instead of detecting it when the heat sensors do. This results in a faster run, as the victim detection is optimized with more victims “rescued” at a faster pace. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/red-capturing-wall.png?raw=true)|
+|![](/posts/post-files/robotics/red-capturing-wall.png?raw=true)|
 | :--: |
 | <b>Red capturing algorithms?<b>|
 
@@ -171,7 +171,7 @@ Something else that that the TFA Junior Robotics team thought of implementing wa
 
 Essentially, by arranging a points or reward system for each victim detection, the robot can decide which letter is more probable. This can possibly improve the overall victim detection accuracy and robustness.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/dynamic-weighting-robot.png?raw=true)|
+|![](/posts/post-files/robotics/dynamic-weighting-robot.png?raw=true)|
 | :--: |
 | <b>Using weighted algorithms?<b>|
 
@@ -208,7 +208,7 @@ Finally, one risks getting lucky sometimes instead of actually winning. For inst
 The TFA Junior Robotics Team is currently consolidating their strategies and determining the viability of pursuing and creating a dynamically weighted algorithm.
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/Dynamic_Adaptive-Weighting-1.png?raw=true)|
+|![](/posts/post-files/robotics/Dynamic_Adaptive-Weighting-1.png?raw=true)|
 | :--: |
 | <b>Dynamic weighted algorithms? This is soemthing we discussed.<b>|
 
@@ -242,7 +242,7 @@ As seen in the above video, the ball continues to go forward  unless acted on by
 **Conclusion**
 After studying the Webots world, the TFA Robotics Team concludes that there is no acceleration or deceleration of motion without an external force acting on the ball. This proves that the Webots world has no air resistance or friction. However, when inside the soccer field, the wall acts as a force when collided on with, and results in the ball slowing down.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/acceleration-and-decelleartion.JPG?raw=true)|
+|![](/posts/post-files/robotics/acceleration-and-decelleartion.JPG?raw=true)|
 | :--: |
 | <b>Acceleration and deceleration of the ball is something that we considered when designing our automated robots<b>|
 
@@ -276,7 +276,7 @@ Some of the things that each robot communicates with each other are: the distanc
  
 As you can see in this video, the distances provided by the GPS values create a unified and cohesive attack and defence for both sides. The provided GPS values are essentially a replacement for a communication system.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/communicating.JPG?raw=true)|
+|![](/posts/post-files/robotics/communicating.JPG?raw=true)|
 | :--: |
 | <b>Communication between robots is not an easy task<b>|
 
@@ -304,7 +304,7 @@ By detecting a lack of progress, a team is able to stop or alter it’s movement
 
 Another way to prevent wheels from falling off from being transported is by stopping once our robot scores. This is because after a goal is scored, the robots are also relocated. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/wheels-falling-off.JPG?raw=true)|
+|![](/posts/post-files/robotics/wheels-falling-off.JPG?raw=true)|
 | :--: |
 | <b>We had  to deal with wheels falling off<b>|
 
@@ -319,7 +319,7 @@ By detecting a corner, robots can achieve a better ball prediction algorithm and
 
 TFA Junior Robotics’ algorithm is to switch the x and y axis’. This is essentially the same as reflecting the ball at a diagonal point. However, there are intricacies with detecting when the ball will hit the corner. For this, there are a few ways to accomplish this, however, Victor made an algorithm by calculating if the given GPS point is inside the area of the triangle. Since the three corner points and the current ball position is given, a simple formula for calculating if a point is inside a triangle can be used. Therefore, the ball prediction knows
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/corner-ball-prediction.JPG?raw=true)|
+|![](/posts/post-files/robotics/corner-ball-prediction.JPG?raw=true)|
 | :--: |
 | <b>Predicting where the simulated soccer ball will go after hitting a corner<b>|
 
@@ -349,7 +349,7 @@ We look at the change in the x and y values, and determine where the ball will b
 
 By predicting the ball’s position, we are able to meet the ball faster, without spending time chasing the ball.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/ball-prediction.JPG?raw=true)|
+|![](/posts/post-files/robotics/ball-prediction.JPG?raw=true)|
 | :--: |
 | <b>Ball prediction based off of the direction that the balls are currently heading in<b>|
 
@@ -364,7 +364,7 @@ As seen in the video, the robot heads back to an “origin” point before chasi
 
 Note: video no longer exists
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/dummy-goalie.JPG?raw=true)|
+|![](/posts/post-files/robotics/dummy-goalie.JPG?raw=true)|
 | :--: |
 | <b>One of the designs of our goalies for testing<b>|
 
@@ -383,7 +383,7 @@ One of the challenges was in getting a BMP file format. This problem by solved w
 
 The end result was an identical new image that could be used as another method for Webots testing or algorithm making.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/bmpFileConvert.png?raw=true)|
+|![](/posts/post-files/robotics/bmpFileConvert.png?raw=true)|
 | :--: |
 | <b>Result of the new BMP file after conversion<b>|
 
@@ -401,7 +401,7 @@ However, another challenge was presented through holes. Holes are the pixels ins
 
 This process is seen on the pictures below
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/Combined-Contour-Tracing-Image.png?raw=true)|
+|![](/posts/post-files/robotics/Combined-Contour-Tracing-Image.png?raw=true)|
 | :--: |
 | <b>Result of the contour tracing being done</b>|
 
@@ -435,7 +435,7 @@ There are two ways to do contrast enhancement, through histogram equalization, a
 
 Sharpening, Blurring, and Edge Detection in an image takes into affect the image’s community. This community is determined through a pixel’s kernel, which can be used to compare values around one pixel. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/differences_in_sharpening.JPG?raw=true)|
+|![](/posts/post-files/robotics/differences_in_sharpening.JPG?raw=true)|
 | :--: |
 | <b>Differences in the sharpness of images</b>|
 
@@ -448,14 +448,14 @@ After preprocessing, the first step in this process was looking at the middle to
 
 This algorithm process can be seen through the decision tree below:
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/letter%20detection%20algo.png?raw=true)|
+|![](/posts/post-files/robotics/letter%20detection%20algo.png?raw=true)|
 | :--: |
 | <b>Letter detection algorithm</b>|
 
 
 By being able to test our program through the display function, we were able to determine whether or not our algorithm works. We were able to easily fix any issues, and perform with higher accuracy. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/world1_3.png?raw=true)|
+|![](/posts/post-files/robotics/world1_3.png?raw=true)|
 | :--: |
 | <b>Finding the letter U accurately</b>|
 
@@ -472,7 +472,7 @@ Therefore, we researched Webots and found a device called [Webot’s Display](ht
 
 Our team managed to attach the camera image to the display, and then write onto the image using the width and x/y coordinates. This made testing much, much more easier.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/world1_2.png?raw=true)|
+|![](/posts/post-files/robotics/world1_2.png?raw=true)|
 | :--: |
 | <b>Example of simulated image detection</b>|
 
@@ -483,7 +483,7 @@ Our team managed to attach the camera image to the display, and then write onto 
 
 Creating a robust and reliable robot is an important part of the RoboCup Rescue Simulation Demonstration Competition. When testing in Webots, our team used Data Visualization to determine how/when errors occurred. Each time we tested our robot, we wrote data from sensors such as colour, gyro, and gps into a file. Then, we used the data to find the key points and see how/what caused the errors. These errors could then be examined for strategy errors, coding errors, or noise errors. We could then create a more reliable and robust robot, since there were less challenges that could affect our robot.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/data-visualization.JPG?raw=true)|
+|![](/posts/post-files/robotics/data-visualization.JPG?raw=true)|
 | :--: |
 | <b>Data visualization example for RoboCup Junior Simulation</b>|
 
@@ -496,7 +496,7 @@ During the [RoboCup Junior Rescue Simulation Demonstration Competition](https://
 
 Our team tried avoiding these errors by ensuring complete movements, and testing, testing testing.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/competition_5.png?raw=true)|
+|![](/posts/post-files/robotics/competition_5.png?raw=true)|
 | :--: |
 | <b>Example of simulated image detection</b>|
 

@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/panams/Team.jpg?raw=true" # image path/url
+    image: "/posts/post-files/panams/Team.jpg?raw=true" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -37,7 +37,7 @@ I was honoured earlier this year to have the opportunity to attend and write the
 
 > From January 5th – 9th, 2023, eight UofT students travelled over 3316 kilometers to Seattle, Washington, USA, for the annual Pan American Intercollegiate Chess Championship, the pinnacle of international collegiate chess. Dubbed the “World Series of College Chess”, the Club had fundraised and fielded teams to the tournament every year between 1965, the year the Club first won it all, and 2019. The storied championship pits the best collegiate chess teams against one another from the North and South Americas. The Hart House Chess Club, representing the University of Toronto, had won the championship 6 times, the most from any non-American school.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/panams/panams%202023.jpg?raw=true)|
+|![](/posts/post-files/panams/panams%202023.jpg?raw=true)|
 | :--: |
 | <b>My team included from left to right: me, Matthew Shih, Derek Ma, Cindy Qiao </b>|
 
@@ -140,6 +140,6 @@ I was honoured earlier this year to have the opportunity to attend and write the
 > As always, thank you to Cynthia Nevins, Mauro Barillas, Jamie St Amand, and Sako Khederlarian at Hart House for their > assistance in making arrangements. A very big shoutout goes to my colleagues on the Executive Board, led this year by > Tanner McNamara. We initially only budgeted to send one team, but our enormous fundraising efforts have enabled us to > send two teams across the continent. And finally, thank you to my teammates: Derek, Cindy, Matthew, Yunshan, Nicholas, > Wenzhi, and Tanraj for making this such a fun trip!
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/panams/Team%20dinner.jpg?raw=true)|
+|![](/posts/post-files/panams/Team%20dinner.jpg?raw=true)|
 | :--: |
 | <b>The entire team at the Team Dinner. From left to right: Yunshan Li, Wenzhi Dai, Derek Ma, Cindy Qiao, Tanner McNamara, Victor Zheng, Tanraj Sohal, Matthew Shih, Nicholas Vettese</b>|

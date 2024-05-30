@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/zonals/zonals_team.jpg" # image path/url
+    image: "/posts/post-files/zonals/zonals_team.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/skipping-grade-12/bcjcc2019-1.jpg?raw=true" # image path/url
+    image: "/posts/post-files/skipping-grade-12/bcjcc2019-1.jpg?raw=true" # image path/url
     alt: "<alt text>" # alt text
     caption: "Playing chess was a passion of mine" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -67,14 +67,14 @@ I really don't think so. Those issues haven't changed in my mind, and that's why
 
 I would point out that learning in high school in Canada is completely different than university. I found highschool to have a ton of people with different life intentions. This meant that getting A's meant trying a bit harder than my other classmates, or thinking about problems in a slightly different way. I could waltz my way into classrooms without studying the material and still make way with memorization and problem solving strategies. In university, this approach doesn't work. You are selected with 90+ averages across all the schools in Canada and so you really don't have an edge over others. Then, add in some super intelligent "math" geniuses from international countries, the competition is completely different. There's nothing that can explain the feeling of taking a university exam - oftentimes, you're left to wonder if you even passed the exam. Whereas in high school, you're wondering about that one question that was "interesting" and you are still 50% confident that you will get 99%. I believe that extra year really changed my perspective on challenges and it was simply a better choice than staying another year and not having that challenge.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/skipping-grade-12/late_nights.JPG?raw=true)|
+|![](/posts/post-files/skipping-grade-12/late_nights.JPG?raw=true)|
 | :--: |
 | <b> High school was just a lot of really late nights waiting for trains. I considered 10 pm to be relatively early. I usually got back late and had to wake up early. </b>|
 
 
 There is one thing that I do wish I did consider a bit more. When selecting the University I went into, I chose UofT thanks to a variety of factors, but perhaps not all the correct ones. If I were to give advice to a high-school student thinking about skipping a grade, I'd tell them to consider what their reasons really hard. Ask yourself whether you feel ready for the challenge. Ask yourself what do you want to study. And finally, talk with as many people as possible, even myself. I do think if I had thought harder about it, I would've considered studying engineering instead of computer science, although it's hard to say whether I would've liked it. It's irrelevant today, but perhaps a little more thought would've changed my perspective back then. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/skipping-grade-12/robotics.jpg?raw=true)|
+|![](/posts/post-files/skipping-grade-12/robotics.jpg?raw=true)|
 | :--: |
 | <b> Looking back today, I think about the tons of time that I spent on extra curricular, in particular robotics. I learned much more from it than I would've in school.</b>|
 
@@ -86,7 +86,7 @@ I've been asked by some high-school students whether they should skip grade 12, 
 PS. I also wanted to play and organize more chess and saw that UofT had a great chess environment. 
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/skipping-grade-12/chess_club.jpg?raw=true)|
+|![](/posts/post-files/skipping-grade-12/chess_club.jpg?raw=true)|
 | :--: |
 | <b>This was one of my favourite memories of high school, the Chess Club that I founded and led as President. We literally played chess everyday at lunch in Mr. Macleod's room.</b>|
 

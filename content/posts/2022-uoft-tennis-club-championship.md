@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/Tournament%20shots.jpg" # image path/url
+    image: "/posts/post-files/2023-club-championship/Tournament%20shots.jpg" # image path/url
     alt: "UofT Tennis Club Championship 2023" # alt text
     caption: "The tournament was played at UofT Scarborough Tennis Centre" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,7 +38,7 @@ editPost:
 
 By: Victor Zheng, Tournament Director & VP of Courts/Practices, Events, Practices, and Tournaments 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/tournament-director-and-organizer.JPG)|
+|![](/posts/post-files/2023-club-championship/tournament-director-and-organizer.JPG)|
 | :--: |
 | <b>I was the sole tournament director and organizer for the entire weekend tournament.</b>|
 
@@ -47,7 +47,7 @@ By: Victor Zheng, Tournament Director & VP of Courts/Practices, Events, Practice
 
 The UofT Tennis Club Championship was held at the University of Toronto Scarborough Tennis Centre, a purpose-built tennis centre for the 2015 Parapan Am Games. The 8-court, state-of-the-art facility hosted 54 participants from October 8th-9th, 2022 for a weekend full of tennis events. This year, we were able to run Men's Singles, Men's Doubles, Women's Singles, and Mixed Doubles events. Every participant had to be a member of the Club ($10), and pay the tournament fee of $15 (or $25 for singles and doubles). Since we had weekly practices happening on Friday afternoons and Saturday evenings since April, this was a much hyped and well attended event. 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/day-one-at-the-tennis-tournament.jpg)|
+|![](/posts/post-files/2023-club-championship/day-one-at-the-tennis-tournament.jpg)|
 | :--: |
 | <b>Matches get underway on day 1 morning</b>|
 
@@ -65,7 +65,7 @@ The matches were very entertaining and lots of new and familiar faces from our w
 
 There were few beginners and matches were competitive, which was an amazing sight to see.
 
-| ![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/An%20plays%20Theo.jpg)|
+| ![](/posts/post-files/2023-club-championship/An%20plays%20Theo.jpg)|
 | :--: |
 | <b>An and Theo played a competitive first match of the tournament!</b>|
 
@@ -86,7 +86,7 @@ Mixed Doubles was also contested, and we had 1 championship match. I thought the
 
 The tournament ended with the prize ceremonies and players went home with their UTTC t-shirts, gift cards, and invitations to our upcoming tournament with Skule Tennis Club. 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/mens-singles-winners.JPG)|
+|![](/posts/post-files/2023-club-championship/mens-singles-winners.JPG)|
 | :--: |
 | <b>Men's Singles Championship players: Mau (champion) and An (finalist) </b>|
 
@@ -110,7 +110,7 @@ Ron helped a ton, very helpful guy
 - Would be good getting the instagram contacts of all winners (if they want to be showcased) 
 - Atmosphere was supportive
 
-| ![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/Amazing%20shot%20of%20court%20and%20background.jpg)|
+| ![](/posts/post-files/2023-club-championship/Amazing%20shot%20of%20court%20and%20background.jpg)|
 | :--: |
 | <b>An amazing view of the courts. </b>|
 
@@ -134,6 +134,6 @@ Bring duck tape. Signs flew away a bunch of times. We used clear tape, but that 
 - Find a way to save the tennis balls. A Pressureball product might help us keep the balls in shape and bouncing. 
 - Better carpool strategy. Is there a way that people can carpool as a group of 4 sanctioned by the Club? People would probably use that service. ~$10 per person one way. Or, have a person just driving? 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/2023-club-championship/Takeshi%20and%20I.JPG)|
+|![](/posts/post-files/2023-club-championship/Takeshi%20and%20I.JPG)|
 | :--: |
 | <b>Takeshi and I were able to hit a few shots during the tournament. </b>|

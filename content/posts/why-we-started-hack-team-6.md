@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/ISEF/ISEF.jpg" # image path/url
+    image: "/posts/post-files/ISEF/ISEF.jpg" # image path/url
     alt: "Image of Victor at ISEF 2022 Atlanta Georgia" # alt text
     caption: "Why did we start XdHacks Mini's Hack Team 6?" # display caption under cover
     relative: false # when using page bundles set this to true

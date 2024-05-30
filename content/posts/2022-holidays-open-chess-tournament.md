@@ -23,13 +23,13 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/holidays-open/HHCC%202022%20Holidays%20Open.jpg" # image path/url
+    image: "/posts/post-files/holidays-open/HHCC%202022%20Holidays%20Open.jpg" # image path/url
     alt: "The 2022 Hart House Holidays Open" # alt text
     caption: "The 2022 Hart House Holidays Open in the Great Hall of Hart House" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Blog/tree/main/content"
+    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
@@ -43,7 +43,7 @@ The Hart House Holidays Open hosted by the historic Hart House Chess Club (HHCC)
 
 I wrote the [event recap here](https://harthousechess.com/2022/12/13/2022-hart-house-holidays-open-attracts-record-breaking-crowd-of-212-players/) with full details on the tournament and the results. 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/holidays-open/Board-One.jpg)|
+|![](/posts/post-files/holidays-open/Board-One.jpg)|
 | :--: |
 | <b>Max Chen and International Master Nikolay Noritsyn played in Rd 3 with Max coming out on top. Max went on to win the tournament.</b>|
 
@@ -64,7 +64,7 @@ Although my official title is Co-Communications Director on the HHCC Executive B
         - out of the ~100 or so that we received, some of the ones that stood out were people asking about (1) byes, (2) withdrawals, and (3) Unrated discounts. We're hopefully going to make it clearer for the Reading Week Open come Feb.  
 - **preparing/distributing signage and posters**
     - Thanks to the work of my Co-Communications Exec Ahmed Khalf, we were able to make marketing posters and advertisements to the general community. I went out to a local print shop to make sure that we could print the posters - that was a fun trip. 
-    - I also designed the [official flyer](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/holidays-open/holidays-open-2022.pdf) for the event, and distributed ~350 paper copies to our Club and local chess clubs in the GTCL. 
+    - I also designed the [official flyer](/posts/post-files/holidays-open/holidays-open-2022.pdf) for the event, and distributed ~350 paper copies to our Club and local chess clubs in the GTCL. 
 - **maintaining inventory**
     - The first task in maintaining inventory was in counting the number of chess sets and materials held by the Club. I did a count and found that we didn't have enough chess sets and clocks to run this tournament. Historically, we ask players to bring their own equipment, but this isn't how major tournaments run. It doesn't make sense for the Club to hold too many chess sets and clocks when our focus is on students. 
     - Annex Chess Club provided a lot of help by loaning out chess sets and clocks for this event. 
@@ -76,7 +76,7 @@ Although my official title is Co-Communications Director on the HHCC Executive B
         - the biggest hassle for setting up was bringing the DGT boards and equipment that we have in our Club. This equipment takes forever to unpack and is super heavy. 
 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/holidays-open/Alex-Ferreira.jpg)|
+|![](/posts/post-files/holidays-open/Alex-Ferreira.jpg)|
 | :--: |
 | <b>Alex Ferreira was the Tournament Director and has been the backbone of the tournament since its inception. </b>|
 
@@ -88,7 +88,7 @@ Some other things that I helped set up.
     - Since I've had to purchase lots of merchandise for both XdHacks and the UofT Tennis Club, I'd like to think that I have a good grasp of where to find the best deal for merch. 
         - in Fall 2022, we were able to purchase custom toques, pens, hoodies, and t-shirts! We'd never been able to do that. 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/holidays-open/my-colleagues.jpg)|
+|![](/posts/post-files/holidays-open/my-colleagues.jpg)|
 | :--: |
 | <b>This was a team effort from the entire Hart House Chess Club Exec Board. Pictured are Tanner and Crystal. Shout out to Bowen and Ahmed as well :) </b>|
 
@@ -96,7 +96,7 @@ Some other things that I helped set up.
 ### Reflection
 Overall, the tournament went really well, and from what I heard, we got a lot of positive feedback. I think there are some improvements to be made for the Reading Week Open in February, but I think overall, this year's holidays open was a great success. The Club's fundraising goals depended on this event, and we reached our goals. I am happy to be given the opportunity and also very happy that I was able to learn a lot from the event about event organizing, planning, and decision making. One of the biggest things I've learned is that a supportive place like Hart House really makes a difference. Having a place to host an event, having people able to help you navigate budgets, room bookings, registrations, and other logistical things makes it easier to let myself and the Chess Club focus on what we do best: running a chess tournament. 
 
-|![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/holidays-open/HartHouse-view.jpg)|
+|![](/posts/post-files/holidays-open/HartHouse-view.jpg)|
 | :--: |
 | <b>I've realized the importance and possibilities that a place like Hart House brings. </b>|
 

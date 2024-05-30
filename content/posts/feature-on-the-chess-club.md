@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/chess-club-2022-2023/Looking%20out%20at%20the%20distance.JPG?raw=true" # image path/url
+    image: "/posts/post-files/chess-club-2022-2023/Looking%20out%20at%20the%20distance.JPG?raw=true" # image path/url
     alt: "<alt text>" # alt text
     caption: "Looking out into the distance at the HH Reading Week Open" # display caption under cover
     relative: false # when using page bundles set this to true

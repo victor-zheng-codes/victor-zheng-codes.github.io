@@ -24,7 +24,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Victor Zheng's Blog Site
   description: "Welcome to my blog page!"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -51,14 +51,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/static/chess_design_favicon.png?raw=true"
+    favicon: "https://github.com/victor-zheng-codes/Personal-Website/blob/main/static/chess_design_favicon.png?raw=true"
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Victor Zheng
     subtitle: "Student at the University of Toronto"
-    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/resources/images/victor-zheng.jpg"
+    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Website/main/resources/images/victor-zheng.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
@@ -122,9 +122,11 @@ menu:
       url: /archives/
       weight: 20
     - identifier: main-website
-      name: victorzheng.ca
-      url: https://victorzheng.ca
-      weight: 30
+    - identifier: photos
+      name: Photos
+      url: /photo-archive/
+      weight: 20
+    - identifier: main-website
     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

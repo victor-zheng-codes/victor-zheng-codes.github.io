@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/varsity-feature/cedarvale.jpg" # image path/url
+    image: "/posts/post-files/varsity-feature/cedarvale.jpg" # image path/url
     alt: "UofT Tennis Club image" # alt text
     caption: "A practice at Cedaravale Park" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -64,4 +64,4 @@ The following post was written by Jayda Ayriss, a *The Varsity* contributer, the
 
 <mark>https://thevarsity.ca/2022/10/02/uoft-tennis-club/</mark>
 
-![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/varsity-feature/eglinton.JPG)
+![](/posts/post-files/varsity-feature/eglinton.JPG)
