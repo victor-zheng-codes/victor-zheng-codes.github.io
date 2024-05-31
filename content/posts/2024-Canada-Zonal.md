@@ -1,5 +1,5 @@
 ---
-title: "2024 Canada Zonal"
+title: "2024 Canada Zonal Recap"
 date: 2024-05-17T18:58:22-04:00
 draft: false
 author: "Victor Zheng"
