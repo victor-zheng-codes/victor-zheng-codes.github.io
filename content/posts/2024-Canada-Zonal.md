@@ -4,7 +4,7 @@ date: 2024-05-17T18:58:22-04:00
 draft: false
 author: "Victor Zheng"
 showToc: true
-tags: [""]
+tags: ["chess"]
 categories: [""]
 TocOpen: false
 hidemeta: false

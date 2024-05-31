@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2023 15:18:04 -0500</lastBuildDate><atom:link href="https://victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 22:55:43 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tennis</title>
+      <link>https://victorzheng.ca/tags/tennis/</link>
+      <pubDate>Mon, 01 Jan 2024 22:55:43 -0400</pubDate>
+      
+      <guid>https://victorzheng.ca/tags/tennis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chess</title>
+      <link>https://victorzheng.ca/tags/chess/</link>
+      <pubDate>Mon, 01 Jan 2024 22:29:01 -0400</pubDate>
+      
+      <guid>https://victorzheng.ca/tags/chess/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>robotics</title>
       <link>https://victorzheng.ca/tags/robotics/</link>
@@ -35,15 +53,6 @@
       <pubDate>Sun, 03 Dec 2023 00:18:53 -0800</pubDate>
       
       <guid>https://victorzheng.ca/tags/organizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chess</title>
-      <link>https://victorzheng.ca/tags/chess/</link>
-      <pubDate>Thu, 05 Oct 2023 00:19:07 -0800</pubDate>
-      
-      <guid>https://victorzheng.ca/tags/chess/</guid>
       <description></description>
     </item>
     
@@ -80,15 +89,6 @@
       <pubDate>Tue, 03 Jan 2023 00:21:24 -0800</pubDate>
       
       <guid>https://victorzheng.ca/tags/comp-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tennis</title>
-      <link>https://victorzheng.ca/tags/tennis/</link>
-      <pubDate>Tue, 25 Oct 2022 23:14:49 -0800</pubDate>
-      
-      <guid>https://victorzheng.ca/tags/tennis/</guid>
       <description></description>
     </item>
     

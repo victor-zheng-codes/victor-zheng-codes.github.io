@@ -23,9 +23,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/posts/post-files/holidays-open/HHCC%202022%20Holidays%20Open.jpg" # image path/url
+    image: "/posts/post-files/holidays-open/HHCC%202022%20Holidays.jpg" # image path/url
     alt: "The 2022 Hart House Holidays Open" # alt text
-    caption: "The 2022 Hart House Holidays Open in the Great Hall of Hart House" # display caption under cover
+    caption: "The 2022 Hart House Holidays Open in the Great Hall of Hart House (taken by John Upper, CFC Newsletter)" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
@@ -45,7 +45,7 @@ I wrote the [event recap here](https://harthousechess.com/2022/12/13/2022-hart-h
 
 |![](/posts/post-files/holidays-open/Board-One.jpg)|
 | :--: |
-| <b>Max Chen and International Master Nikolay Noritsyn played in Rd 3 with Max coming out on top. Max went on to win the tournament.</b>|
+| <b>Max Chen and International Master Nikolay Noritsyn played in Rd 3 with Max coming out on top. Max went on to win the tournament. Photo by John Upper, CFC Newsletter</b>|
 
 ### My Role as an Organizer
 
@@ -78,7 +78,7 @@ Although my official title is Co-Communications Director on the HHCC Executive B
 
 |![](/posts/post-files/holidays-open/Alex-Ferreira.jpg)|
 | :--: |
-| <b>Alex Ferreira was the Tournament Director and has been the backbone of the tournament since its inception. </b>|
+| <b>Alex Ferreira was the Tournament Director and has been the backbone of the tournament since its inception. Photo by John Upper, CFC Newsletter </b>|
 
 
 Some other things that I helped set up. 
@@ -98,8 +98,14 @@ Overall, the tournament went really well, and from what I heard, we got a lot of
 
 |![](/posts/post-files/holidays-open/HartHouse-view.jpg)|
 | :--: |
-| <b>I've realized the importance and possibilities that a place like Hart House brings. </b>|
+| <b>I've realized the importance and possibilities that a place like Hart House brings. Photo by John Upper, CFC Newsletter. </b>|
 
 Being a part of the event organizing structure has really been a fun ride. I'm looking forward to running more chess tournaments, and shaping the future of chess in Toronto (and Canada).
 
 Photo Credits: John Upper, CFC
+
+
+|![](/posts/post-files/holidays-open/clocks-and-more.JPG)|
+| :--: |
+| <b>Organizing our clocks at Hart House after the touranment</b>|
+
