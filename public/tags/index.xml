@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 18:58:22 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 23:03:46 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tennis</title>
+      <link>https://victorzheng.ca/tags/tennis/</link>
+      <pubDate>Thu, 30 May 2024 23:03:46 -0400</pubDate>
+      
+      <guid>https://victorzheng.ca/tags/tennis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>chess</title>
       <link>https://victorzheng.ca/tags/chess/</link>
@@ -21,38 +30,11 @@
     </item>
     
     <item>
-      <title>tennis</title>
-      <link>https://victorzheng.ca/tags/tennis/</link>
-      <pubDate>Mon, 01 Jan 2024 22:55:43 -0400</pubDate>
-      
-      <guid>https://victorzheng.ca/tags/tennis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>robotics</title>
       <link>https://victorzheng.ca/tags/robotics/</link>
       <pubDate>Sun, 03 Dec 2023 15:18:04 -0500</pubDate>
       
       <guid>https://victorzheng.ca/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>events</title>
-      <link>https://victorzheng.ca/tags/events/</link>
-      <pubDate>Sun, 03 Dec 2023 00:18:53 -0800</pubDate>
-      
-      <guid>https://victorzheng.ca/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>organizing</title>
-      <link>https://victorzheng.ca/tags/organizing/</link>
-      <pubDate>Sun, 03 Dec 2023 00:18:53 -0800</pubDate>
-      
-      <guid>https://victorzheng.ca/tags/organizing/</guid>
       <description></description>
     </item>
     
@@ -89,6 +71,24 @@
       <pubDate>Tue, 03 Jan 2023 00:21:24 -0800</pubDate>
       
       <guid>https://victorzheng.ca/tags/comp-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://victorzheng.ca/tags/events/</link>
+      <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
+      
+      <guid>https://victorzheng.ca/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>organizing</title>
+      <link>https://victorzheng.ca/tags/organizing/</link>
+      <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
+      
+      <guid>https://victorzheng.ca/tags/organizing/</guid>
       <description></description>
     </item>
     

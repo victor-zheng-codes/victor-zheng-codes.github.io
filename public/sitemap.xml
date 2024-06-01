@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://victorzheng.ca/posts/</loc>
+    <lastmod>2024-05-30T23:03:46-04:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/tags/</loc>
+    <lastmod>2024-05-30T23:03:46-04:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/tags/tennis/</loc>
+    <lastmod>2024-05-30T23:03:46-04:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/</loc>
+    <lastmod>2024-05-30T23:03:46-04:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/posts/why-i-stepped-away-from-tennis-club-leadership/</loc>
+    <lastmod>2024-05-30T23:03:46-04:00</lastmod>
+  </url><url>
     <loc>https://victorzheng.ca/posts/2024-canada-zonal/</loc>
     <lastmod>2024-05-17T18:58:22-04:00</lastmod>
   </url><url>
     <loc>https://victorzheng.ca/tags/chess/</loc>
     <lastmod>2024-05-17T18:58:22-04:00</lastmod>
   </url><url>
-    <loc>https://victorzheng.ca/posts/</loc>
-    <lastmod>2024-05-17T18:58:22-04:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/tags/</loc>
-    <lastmod>2024-05-17T18:58:22-04:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/</loc>
-    <lastmod>2024-05-17T18:58:22-04:00</lastmod>
-  </url><url>
     <loc>https://victorzheng.ca/posts/tennis-club-2024-victor-zheng/</loc>
     <lastmod>2024-01-01T22:55:43-04:00</lastmod>
   </url><url>
     <loc>https://victorzheng.ca/categories/</loc>
-    <lastmod>2024-01-01T22:55:43-04:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/tags/tennis/</loc>
     <lastmod>2024-01-01T22:55:43-04:00</lastmod>
   </url><url>
     <loc>https://victorzheng.ca/categories/tennis/</loc>
@@ -40,18 +43,6 @@
   </url><url>
     <loc>https://victorzheng.ca/posts/robotics-blogs/</loc>
     <lastmod>2023-12-03T15:18:04-05:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/tags/events/</loc>
-    <lastmod>2023-12-03T00:18:53-08:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/tags/organizing/</loc>
-    <lastmod>2023-12-03T00:18:53-08:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/posts/organizing-climate-code-2021/</loc>
-    <lastmod>2023-12-03T00:18:53-08:00</lastmod>
-  </url><url>
-    <loc>https://victorzheng.ca/categories/xdhacks-mini/</loc>
-    <lastmod>2023-12-03T00:18:53-08:00</lastmod>
   </url><url>
     <loc>https://victorzheng.ca/categories/chess-club/</loc>
     <lastmod>2023-10-05T00:19:07-08:00</lastmod>
@@ -97,6 +88,18 @@
   </url><url>
     <loc>https://victorzheng.ca/posts/2022-holidays-open-chess-tournament/</loc>
     <lastmod>2022-12-12T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/tags/events/</loc>
+    <lastmod>2022-12-12T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/tags/organizing/</loc>
+    <lastmod>2022-12-12T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/posts/organizing-climate-code-2021/</loc>
+    <lastmod>2022-12-03T00:18:53-08:00</lastmod>
+  </url><url>
+    <loc>https://victorzheng.ca/categories/xdhacks-mini/</loc>
+    <lastmod>2022-12-03T00:18:53-08:00</lastmod>
   </url><url>
     <loc>https://victorzheng.ca/posts/uttc-vs-stc/</loc>
     <lastmod>2022-10-25T23:14:49-08:00</lastmod>
