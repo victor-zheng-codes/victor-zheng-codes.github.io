@@ -6,7 +6,7 @@ This is my personal website. Thanks for coming by! On this website, I've been wo
 2. [Canadian Hackathon List](#canadian-hackathon-list)
 3. [School and Course Work](#schoolcourse-work-display)
 4. [Robotics](#robotics)
-5. [Personal Blog](#personal-blog)
+5. [Personal Blog](#Personal-Website)
 6. [Task Tracker](#task-tracker)
 7. [Chess](#chess)
 8. [Tennis](#tennis)
