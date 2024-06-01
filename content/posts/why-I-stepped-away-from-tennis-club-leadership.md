@@ -80,3 +80,8 @@ Finally, I would like to thank the many Executives who I've worked with over the
 
 > President
 
+
+|![](/posts/post-files/leaving-tennis-club/2023-Canada-Club-Tennis.JPG)|
+| :--: |
+| <b>The 2023 Canadian University Tennis Club Championships</b>|
+
