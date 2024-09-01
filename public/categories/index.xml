@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 22:55:43 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 16:14:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intern</title>
+      <link>http://localhost:1313/categories/intern/</link>
+      <pubDate>Fri, 01 Mar 2024 16:14:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/categories/intern/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tennis</title>
       <link>http://localhost:1313/categories/tennis/</link>

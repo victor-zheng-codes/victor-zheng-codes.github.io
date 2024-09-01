@@ -1,7 +1,6 @@
 ---
 title: "2022 UofT Tennis Club Championship"
 date: 2022-10-10T20:50:28-08:00
-draft: true
 author: "Victor Zheng"
 categories: ["tennis-club"]
 tags: ["events", "tennis", "organizing"]

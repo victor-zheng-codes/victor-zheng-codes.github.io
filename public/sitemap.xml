@@ -23,10 +23,19 @@
     <loc>http://localhost:1313/tags/chess/</loc>
     <lastmod>2024-05-17T18:58:22-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tennis-club-2024-victor-zheng/</loc>
-    <lastmod>2024-01-01T22:55:43-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-03-01T16:14:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/intern/</loc>
+    <lastmod>2024-03-01T16:14:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/internship-csc-ddsb-2023/</loc>
+    <lastmod>2024-03-01T16:14:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/internships/</loc>
+    <lastmod>2024-03-01T16:14:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tennis-club-2024-victor-zheng/</loc>
     <lastmod>2024-01-01T22:55:43-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tennis/</loc>

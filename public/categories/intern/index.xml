@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intern on Victor Zheng</title>
+    <link>http://localhost:1313/categories/intern/</link>
+    <description>Recent content in Intern on Victor Zheng</description>
+    <image>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 16:14:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/intern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internship at the Ministry of Education 2023</title>
+      <link>http://localhost:1313/posts/internship-csc-ddsb-2023/</link>
+      <pubDate>Fri, 01 Mar 2024 16:14:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/internship-csc-ddsb-2023/</guid>
+      <description>From May 2023 to December 2023, I interned at the Community Services Cluster (CSC) of GovTechON in the Government of Ontario. As my first internship experience, I thought the overall experience was excellent and it sparked my curiosity into a lot more than what I had originally signed up for. The official mission of the OPS is “taking pride in strengthening Ontario, its places and its people” and I thought this was a great chance for me to be involved in shaping the future of Ontario.</description>
+    </item>
+    
+  </channel>
+</rss>
