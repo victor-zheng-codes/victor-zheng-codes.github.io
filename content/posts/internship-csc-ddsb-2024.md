@@ -1,11 +1,11 @@
 ---
 title: "Internship at the Community Services Cluster May 2024 - August 2024"
-date: 2024-09-01T18:21:33-04:00
+date: 2024-08-31T18:21:33-04:00
 draft: true
 author: "Victor Zheng"
 showToc: true
-tags: [""]
-categories: [""]
+tags: ["internships"]
+categories: ["intern"]
 TocOpen: false
 hidemeta: false
 comments: false
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image url>" # image path/url
+    image: "/posts/post-files/internships/csc-ddsb-team-2024.JPG" # image path/url    
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -32,3 +32,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+Content
+
+Hello World
