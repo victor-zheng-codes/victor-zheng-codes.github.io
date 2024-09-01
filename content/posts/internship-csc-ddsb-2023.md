@@ -1,5 +1,5 @@
 ---
-title: "Internship at the Ministry of Education 2023"
+title: "Internship at the Community Services Cluster May 2023 - Dec 2023"
 date: 2024-07-01T16:14:00-04:00
 draft: true
 author: "Victor Zheng"
