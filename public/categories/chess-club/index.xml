@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chess-Club on Victor Zheng</title>
-    <link>https://victorzheng.ca/categories/chess-club/</link>
+    <link>http://localhost:1313/categories/chess-club/</link>
     <description>Recent content in Chess-Club on Victor Zheng</description>
     <image>
-      <url>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 00:19:07 -0800</lastBuildDate><atom:link href="https://victorzheng.ca/categories/chess-club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 00:19:07 -0800</lastBuildDate><atom:link href="http://localhost:1313/categories/chess-club/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hart House Feature on the Chess Club</title>
-      <link>https://victorzheng.ca/posts/feature-on-chess-club-women/</link>
+      <link>http://localhost:1313/posts/feature-on-chess-club-women/</link>
       <pubDate>Thu, 05 Oct 2023 00:19:07 -0800</pubDate>
       
-      <guid>https://victorzheng.ca/posts/feature-on-chess-club-women/</guid>
+      <guid>http://localhost:1313/posts/feature-on-chess-club-women/</guid>
       <description>The following page was written by Megan Mueller at Hart House. Hart House houses the Hart House Chess Club, the official chess club of the University of Toronto since 1895. This year, I am proud to serve as it&amp;rsquo;s President/Secretary.
 The original post is accessible here: https://harthouse.ca/blog/the-ascent-of-the-female-chess-player-hart-house-club-provides-welcoming-environment
 Women&amp;rsquo;s Chess is strong at UofT as of 2023 Female students are advancing in the game of chess, a realm traditionally held by men.</description>
@@ -24,40 +24,40 @@ Women&amp;rsquo;s Chess is strong at UofT as of 2023 Female students are advanci
     
     <item>
       <title>Globe and Mail Feature on the Hart House Chess Club</title>
-      <link>https://victorzheng.ca/posts/feature-on-the-chess-club/</link>
+      <link>http://localhost:1313/posts/feature-on-the-chess-club/</link>
       <pubDate>Sat, 27 May 2023 12:32:39 -0400</pubDate>
       
-      <guid>https://victorzheng.ca/posts/feature-on-the-chess-club/</guid>
+      <guid>http://localhost:1313/posts/feature-on-the-chess-club/</guid>
       <description>The following page was written by Cecil Rosner, one of the only chess columnists currently still writing articles as of 2023. Rosner&amp;rsquo;s pieces are published weekly on The Globe and Mail here.
 I was featured by Rosner in a piece titled &amp;ldquo;Canada’s biggest college chess club still going strong after 127 years &amp;ldquo; on Janruary 8, 2023. I did the interview with Bowen Zhang, at that time the Fundraising Director for the Hart House Chess Club.</description>
     </item>
     
     <item>
       <title>The 2023 Reading Week Open</title>
-      <link>https://victorzheng.ca/posts/the-2023-reading-week-open/</link>
+      <link>http://localhost:1313/posts/the-2023-reading-week-open/</link>
       <pubDate>Mon, 27 Feb 2023 17:56:39 -0500</pubDate>
       
-      <guid>https://victorzheng.ca/posts/the-2023-reading-week-open/</guid>
+      <guid>http://localhost:1313/posts/the-2023-reading-week-open/</guid>
       <description>I had the honour of writing the Event Report for the 2023 Hart House Reading Week Open Chess Tournament during Family Day Long Weekend 2023. As the lead organizer of the event, it was a great to see such an exciting event take place and for us to pull off an excellent quality event. The report I wrote with all images can be found here: https://harthousechess.com/2023/02/24/nikolay-noritsyn-wins-in-strong-crown-section-at-2023-reading-week-open/.
 Please see below for the text (no images) that I wrote for the event.</description>
     </item>
     
     <item>
       <title>UofT Makes a Splash at the 2023 PanAmerican Intercollegiate Chess Tournament</title>
-      <link>https://victorzheng.ca/posts/panam-chess-tournament/</link>
+      <link>http://localhost:1313/posts/panam-chess-tournament/</link>
       <pubDate>Sun, 22 Jan 2023 13:03:25 -0400</pubDate>
       
-      <guid>https://victorzheng.ca/posts/panam-chess-tournament/</guid>
+      <guid>http://localhost:1313/posts/panam-chess-tournament/</guid>
       <description>I was honoured earlier this year to have the opportunity to attend and write the official event report from the Hart House Chess Club&amp;rsquo;s PanAmerican Intercollegiate Chess Tournament in Seattle, Washington. As a player in the tournament and the lead organizer for the team&amp;rsquo;s trip, it was as no-brainer for me to also write the event report. The report can be accessed here: https://harthousechess.com/2023/01/22/uoft-makes-a-splash-at-the-2023-panamerican-intercollegiate-chess-championship/.
 From January 5th – 9th, 2023, eight UofT students travelled over 3316 kilometers to Seattle, Washington, USA, for the annual Pan American Intercollegiate Chess Championship, the pinnacle of international collegiate chess.</description>
     </item>
     
     <item>
       <title>2022 Holidays Open Chess Tournament</title>
-      <link>https://victorzheng.ca/posts/2022-holidays-open-chess-tournament/</link>
+      <link>http://localhost:1313/posts/2022-holidays-open-chess-tournament/</link>
       <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
       
-      <guid>https://victorzheng.ca/posts/2022-holidays-open-chess-tournament/</guid>
+      <guid>http://localhost:1313/posts/2022-holidays-open-chess-tournament/</guid>
       <description>The Hart House Holidays Open hosted by the historic Hart House Chess Club (HHCC) returned for the first time since the pandemic. This holiday season tradition had been sidelined since Dec. 2019 thanks to the COVID-19 pandemic and the gathering restrictions stemmed from it. I had the privilege (or responsibility as a HHCC Exec) of joining the tournament organizing team as one of the lead organizers for the event.
 The Event Recap 212 participants descended on the Great Hall of Hart House at the University of Toronto from Dec.</description>
     </item>
