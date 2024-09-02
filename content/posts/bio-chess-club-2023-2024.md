@@ -1,6 +1,6 @@
 ---
 title: "Biography Chess Club 2023-2024"
-date: 2024-01-01T22:29:01-04:00
+date: 2024-02-01T22:29:01-04:00
 draft: false
 author: "Victor Zheng"
 showToc: true
