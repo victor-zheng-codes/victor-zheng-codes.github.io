@@ -58,7 +58,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Victor Zheng
     subtitle: "Student at the University of Toronto"
-    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Website/main/resources/images/victor-zheng.jpg"
+    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Website/main/resources/images/victor-zheng-2024.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: Victor Zheng
