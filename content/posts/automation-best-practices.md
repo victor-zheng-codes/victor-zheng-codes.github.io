@@ -1,11 +1,11 @@
 ---
-title: "Internship at the Community Services Cluster May 2023 - Dec 2023"
-date: 2024-07-01T16:14:00-04:00
+title: "Automation Best Practices"
+date: 2024-09-02T12:31:23-04:00
 draft: true
 author: "Victor Zheng"
 showToc: true
-tags: ["internships"]
-categories: ["intern"]
+tags: [""]
+categories: [""]
 TocOpen: false
 hidemeta: false
 comments: false
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/posts/post-files/internships/ddsb-csc-victor.jpeg" # image path/url    
+    image: "<image url>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -32,4 +32,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
