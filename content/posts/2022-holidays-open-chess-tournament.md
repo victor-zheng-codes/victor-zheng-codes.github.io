@@ -27,10 +27,7 @@ cover:
     caption: "The 2022 Hart House Holidays Open in the Great Hall of Hart House" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+
 ---
 
 The Hart House Holidays Open hosted by the historic Hart House Chess Club (HHCC) returned for the first time since the pandemic. This holiday season tradition had been sidelined since Dec. 2019 thanks to the COVID-19 pandemic and the gathering restrictions stemmed from it. I had the privilege (or responsibility as a HHCC Exec) of joining the tournament organizing team as one of the lead organizers for the event. 

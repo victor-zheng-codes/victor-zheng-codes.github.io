@@ -27,10 +27,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 I was honoured earlier this year to have the opportunity to attend and write the official event report from the Hart House Chess Club's PanAmerican Intercollegiate Chess Tournament in Seattle, Washington. As a player in the tournament and the lead organizer for the team's trip, it was as no-brainer for me to also write the event report. The report can be accessed here: [https://harthousechess.com/2023/01/22/uoft-makes-a-splash-at-the-2023-panamerican-intercollegiate-chess-championship/](https://harthousechess.com/2023/01/22/uoft-makes-a-splash-at-the-2023-panamerican-intercollegiate-chess-championship/). 

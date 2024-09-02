@@ -27,10 +27,6 @@ cover:
     caption: "UofT Tennis Club defeated the Skule Tennis Club 11-5 on October 24, 2022" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 On October 24, 2022, I organized the Fall 2022 Skule Tennis Club (STC) vs UofT Tennis Club (UTTC) match, which resulted in a resounding victory for UTTC 11-5. Going in to the match, I had worked with Sara, STC's President to make sure that we had everything ready to go and people to play against. I also worked with Sir Winston Churchill Park Tennis Club by booking the courts for a very low cost of $10 per member for 4 hours from 3pm-7pm. Considering how there was a wait list of 1000+ people at their Club, I thought this was an awesome deal. 

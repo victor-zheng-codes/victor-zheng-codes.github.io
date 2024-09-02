@@ -27,10 +27,6 @@ cover:
     caption: "The Presidents and Organizers of the 2023 Canadian University Tennis Championship" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 On February 26th, the cumulation of over a year of planning resulted in the first ever Canadian University Tennis Club Championship at the University of Waterloo. This is my report from organizing and directing the event. 

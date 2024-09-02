@@ -27,10 +27,6 @@ cover:
     caption: "Looking out into the distance at the HH Reading Week Open" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 The following page was written by Cecil Rosner, one of the only chess columnists currently still writing articles as of 2023. Rosner's pieces are published weekly on [The Globe and Mail here](https://www.theglobeandmail.com/authors/cecil-rosner/). 

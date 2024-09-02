@@ -27,10 +27,6 @@ cover:
     caption: "A practice at Cedaravale Park" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 The following post was written by Jayda Ayriss, a *The Varsity* contributer, the University's official newspapre. I had the pleasure with chating with Jayda about the UofT Tennis Club and the work that we do/have done over the past year. Take a read!

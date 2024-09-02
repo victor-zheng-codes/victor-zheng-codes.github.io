@@ -27,10 +27,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 I had the honour of writing the Event Report for the 2023 Hart House Reading Week Open Chess Tournament during Family Day Long Weekend 2023. As the lead organizer of the event, it was a great to see such an exciting event take place and for us to pull off an excellent quality event. The report I wrote with all images can be found here: [https://harthousechess.com/2023/02/24/nikolay-noritsyn-wins-in-strong-crown-section-at-2023-reading-week-open/](https://harthousechess.com/2023/02/24/nikolay-noritsyn-wins-in-strong-crown-section-at-2023-reading-week-open/). 

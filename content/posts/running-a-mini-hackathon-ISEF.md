@@ -27,10 +27,6 @@ cover:
     caption: "Future Forward is the motto for ISEF, one of the biggest international high-school fairs in the world" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 The [International Science and Engineer Fair](https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair) is one of the most famous science fairs in the world, where over 1500+ students come together to showcase their research and innovative skills and compete for over $6,000,000 in prizes. XdHacks Mini was invited to organize a mini-hackathon for this event, in-person, in Atlanta, Georgia. This is my experience. 
 

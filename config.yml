@@ -58,7 +58,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Victor Zheng
     subtitle: "Computer Science undergrad at the University of Toronto St. George"
-    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Website/main/resources/images/victor-zheng-2024.jpg"
+    imageUrl: "/images/victor-zheng-2024.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: Victor Zheng
@@ -87,13 +87,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true

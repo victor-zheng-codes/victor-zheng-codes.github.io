@@ -27,10 +27,6 @@ cover:
     caption: "Playing chess was a passion of mine" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 Over two years ago, back in 2020, I decided to "skip" grade 12. Here were the reasons that I listed back then (Mar. 2021), unchanged from the moment I wrote them. 

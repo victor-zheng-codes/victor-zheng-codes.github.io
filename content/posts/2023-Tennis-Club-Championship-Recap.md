@@ -27,10 +27,6 @@ cover:
     caption: "Competing at the 2023-2024 U of T Tennis Club championship" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 I recently directed the 2023 U of T Tennis Club Championship from October 8th to 9th, 2023 at the University of Toronto Scarborough’s Tennis Centre. The following is my reflection on what I learned from that event and how to run a tennis tournament. 

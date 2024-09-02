@@ -27,10 +27,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 I recently won the Judi Schwartz Memorial Scholarship for student leadership for my work at the Hart House Chess Club. Below is some information on the award and the content shared by Hart House. 

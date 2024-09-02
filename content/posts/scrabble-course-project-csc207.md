@@ -27,10 +27,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content/posts"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 In 2022, my team created a re-write of Scrabble. For all the details, visit our team site here: https://github.com/CSC207-2022F-UofT/course-project-scrabble. 

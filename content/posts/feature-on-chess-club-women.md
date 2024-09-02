@@ -27,10 +27,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Website/tree/main/content/posts"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 The following page was written by Megan Mueller at Hart House. Hart House houses the Hart House Chess Club, the official chess club of the University of Toronto since 1895. This year, I am proud to serve as it's President/Secretary. 
