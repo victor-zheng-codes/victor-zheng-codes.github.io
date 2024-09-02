@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tennis on Victor Zheng</title>
-    <link>https://victorzheng.ca/categories/tennis/</link>
+    <link>http://localhost:1313/categories/tennis/</link>
     <description>Recent content in Tennis on Victor Zheng</description>
     <image>
-      <url>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 22:55:43 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/categories/tennis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 22:55:43 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/tennis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biography Tennis Club 2024</title>
-      <link>https://victorzheng.ca/posts/tennis-club-2024-victor-zheng/</link>
+      <link>http://localhost:1313/posts/tennis-club-2024-victor-zheng/</link>
       <pubDate>Mon, 01 Jan 2024 22:55:43 -0400</pubDate>
       
-      <guid>https://victorzheng.ca/posts/tennis-club-2024-victor-zheng/</guid>
+      <guid>http://localhost:1313/posts/tennis-club-2024-victor-zheng/</guid>
       <description>Here is the biography of me for the University of Toronto Tennis Club for 2023-2024.
 Victor Zheng has served as the UofT Tennis Club’s Head of Courts (21-22), Vice President (22-23), and President (23-present).
 Growing up, he was a badminton player. He never took up tennis until the age of 11, when he joined his brother at the UBC’s High-Performance Junior Tennis Training program, then coached by BC Champion Daniel Chu.</description>
