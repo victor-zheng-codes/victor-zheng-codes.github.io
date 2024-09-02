@@ -8,3 +8,5 @@ I currently maintain this website for my blogs. It can accessed at [victorzheng.
 It is built using Hugo and the PaperMod theme.
 
 Started December 2021
+
+Last Updated August 2024
