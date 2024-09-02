@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 12:31:23 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 12:31:16 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Stepped Away From U of T Tennis Club&#39;s Leadership</title>
       <link>https://victorzheng.ca/posts/why-i-stepped-away-from-tennis-club-leadership/</link>
@@ -84,6 +84,16 @@ We planned 5 sections of Men’s Singles, Men’s Doubles, Women’s Singles, Wo
       <description>The following page was written by Megan Mueller at Hart House. Hart House houses the Hart House Chess Club, the official chess club of the University of Toronto since 1895. This year, I am proud to serve as it&amp;rsquo;s President/Secretary.
 The original post is accessible here: https://harthouse.ca/blog/the-ascent-of-the-female-chess-player-hart-house-club-provides-welcoming-environment
 Women&amp;rsquo;s Chess is strong at UofT as of 2023 Female students are advancing in the game of chess, a realm traditionally held by men.</description>
+    </item>
+    
+    <item>
+      <title>Automation Best Practices</title>
+      <link>https://victorzheng.ca/posts/automation-best-practices/</link>
+      <pubDate>Sat, 02 Sep 2023 12:31:23 -0400</pubDate>
+      
+      <guid>https://victorzheng.ca/posts/automation-best-practices/</guid>
+      <description>I think I have had one of the most interesting years of my life working on automation and testing. I think I have gained a ton of knowledge which I have written about below.
+My experience with automation is based off a year of experience building automation tools in both Java and C# and using different frameworks and features which are used throughout the industry for both test automation and automation of deploying / configuring code.</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 ---
 title: "Automation Best Practices"
-date: 2024-09-02T12:31:23-04:00
-draft: true
+date: 2023-09-02T12:31:23-04:00
+draft: false
 author: "Victor Zheng"
 showToc: true
 tags: [""]
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image url>" # image path/url
+    image: "/posts/post-files/internships/automation.jpeg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
