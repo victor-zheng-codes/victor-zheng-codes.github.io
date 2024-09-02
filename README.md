@@ -1,7 +1,7 @@
 # Victor Zheng's Personal Website
 
 
-This is my personal website. Thanks for coming by! On this website.
+This is my personal website. Thanks for coming by! 
 
 I currently maintain this website for my blogs. It can accessed at [victorzheng.ca](https://victorzheng.ca).
 
