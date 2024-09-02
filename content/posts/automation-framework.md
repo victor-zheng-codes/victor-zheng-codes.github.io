@@ -1,5 +1,5 @@
 ---
-title: "Automation Framework"
+title: "Testing Automation Framework"
 date: 2024-09-02T12:31:16-04:00
 draft: true
 author: "Victor Zheng"
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image url>" # image path/url
+    image: "/posts/post-files/internships/test-automation-view.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -78,6 +78,10 @@ Personally, I excel in ambiguous projects which require careful thinking, strate
 - Configurations for features available to be configurable as code. Easy ability to turn on and off features.
 
 As I began the project, I discussed daily enhancements with the team and developed the framework slowly but surely. I listed all our advancements and features on Azure DevOps and tracked over 400 work items prioritizing high priority items to 1 and lower ones to 4. I also included latest ideas as things to “Investigate” such as integrations with other common tools.
+
+|![](/posts/post-files/internships/RunResults.png)|
+| :--: |
+| <b>Run results of executions.</b>|
 
 ## Technical Problems
 
