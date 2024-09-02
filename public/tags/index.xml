@@ -2,111 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Victor Zheng</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://victorzheng.ca/tags/</link>
     <description>Recent content in Tags on Victor Zheng</description>
     <image>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 18:21:20 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Internships</title>
-      <link>http://localhost:1313/tags/internships/</link>
-      <pubDate>Thu, 01 Aug 2024 18:21:20 -0400</pubDate>
-      
-      <guid>http://localhost:1313/tags/internships/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 01 Jun 2024 10:03:46 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tennis</title>
-      <link>http://localhost:1313/tags/tennis/</link>
+      <link>https://victorzheng.ca/tags/tennis/</link>
       <pubDate>Sat, 01 Jun 2024 10:03:46 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/tennis/</guid>
+      <guid>https://victorzheng.ca/tags/tennis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chess</title>
-      <link>http://localhost:1313/tags/chess/</link>
+      <link>https://victorzheng.ca/tags/chess/</link>
       <pubDate>Fri, 17 May 2024 18:58:22 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/chess/</guid>
+      <guid>https://victorzheng.ca/tags/chess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>http://localhost:1313/tags/robotics/</link>
+      <link>https://victorzheng.ca/tags/robotics/</link>
       <pubDate>Sun, 03 Dec 2023 15:18:04 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/robotics/</guid>
+      <guid>https://victorzheng.ca/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/tags/articles/</link>
+      <link>https://victorzheng.ca/tags/articles/</link>
       <pubDate>Sat, 27 May 2023 12:32:39 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/articles/</guid>
+      <guid>https://victorzheng.ca/tags/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
+      <link>https://victorzheng.ca/tags/news/</link>
       <pubDate>Sat, 27 May 2023 12:32:39 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/news/</guid>
+      <guid>https://victorzheng.ca/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>http://localhost:1313/tags/story/</link>
+      <link>https://victorzheng.ca/tags/story/</link>
       <pubDate>Mon, 06 Mar 2023 00:20:59 -0800</pubDate>
       
-      <guid>http://localhost:1313/tags/story/</guid>
+      <guid>https://victorzheng.ca/tags/story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comp-Science</title>
-      <link>http://localhost:1313/tags/comp-science/</link>
+      <link>https://victorzheng.ca/tags/comp-science/</link>
       <pubDate>Tue, 03 Jan 2023 00:21:24 -0800</pubDate>
       
-      <guid>http://localhost:1313/tags/comp-science/</guid>
+      <guid>https://victorzheng.ca/tags/comp-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>http://localhost:1313/tags/events/</link>
+      <link>https://victorzheng.ca/tags/events/</link>
       <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
       
-      <guid>http://localhost:1313/tags/events/</guid>
+      <guid>https://victorzheng.ca/tags/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organizing</title>
-      <link>http://localhost:1313/tags/organizing/</link>
+      <link>https://victorzheng.ca/tags/organizing/</link>
       <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
       
-      <guid>http://localhost:1313/tags/organizing/</guid>
+      <guid>https://victorzheng.ca/tags/organizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathons</title>
-      <link>http://localhost:1313/tags/hackathons/</link>
+      <link>https://victorzheng.ca/tags/hackathons/</link>
       <pubDate>Fri, 30 Sep 2022 00:18:39 -0800</pubDate>
       
-      <guid>http://localhost:1313/tags/hackathons/</guid>
+      <guid>https://victorzheng.ca/tags/hackathons/</guid>
       <description></description>
     </item>
     
