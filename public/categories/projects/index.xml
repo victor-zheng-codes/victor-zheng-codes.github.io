@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Victor Zheng</title>
+    <link>https://victorzheng.ca/categories/projects/</link>
+    <description>Recent content in Projects on Victor Zheng</description>
+    <image>
+      <url>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2024 18:21:33 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Leadership</title>
+      <link>https://victorzheng.ca/posts/effective-leadership/</link>
+      <pubDate>Sat, 31 Aug 2024 18:21:33 -0400</pubDate>
+      
+      <guid>https://victorzheng.ca/posts/effective-leadership/</guid>
+      <description>I recently was asked this question and I thought I would document what I believe is the definition of Effective Leadership.
+Here are my thoughts on leadership: The definition of leadership varies by team To me, leadership is very much team dependent. There is no one book that will be able to explain the specifics of every single team&amp;rsquo;s dynamic and which can be applied to every single team. We all come from different perspectives, have different motivations, and the organizations themselves are different.</description>
+    </item>
+    
+  </channel>
+</rss>

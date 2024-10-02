@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 22:55:43 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 18:21:33 -0400</lastBuildDate><atom:link href="https://victorzheng.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://victorzheng.ca/categories/projects/</link>
+      <pubDate>Sat, 31 Aug 2024 18:21:33 -0400</pubDate>
+      
+      <guid>https://victorzheng.ca/categories/projects/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tennis</title>
       <link>https://victorzheng.ca/categories/tennis/</link>
