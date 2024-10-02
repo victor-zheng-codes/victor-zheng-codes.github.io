@@ -51,7 +51,6 @@ params:
     # disableFingerprinting: true
     favicon: "https://github.com/victor-zheng-codes/Personal-Website/blob/main/static/chess_design_favicon.png?raw=true"
 
-  # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Victor Zheng
