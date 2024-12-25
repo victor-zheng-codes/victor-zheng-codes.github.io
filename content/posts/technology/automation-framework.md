@@ -1,7 +1,7 @@
 ---
 title: "Testing Automation Framework"
 date: 2024-09-02T12:31:16-04:00
-draft: true
+draft: false
 author: "Victor Zheng"
 showToc: true
 tags: [""]
@@ -65,7 +65,7 @@ When we use Azure DevOps (like Jira), we can directly see the linkage between de
 
 At first, I wanted to understand how ALM communicated with Oracle and how the Selenium running in the background worked. However, I also noticed that our methodologies were lacking some major items such as version control, ease of updating, and the ability to see the big picture. I also had major questions about how to update the framework to fit the needs of QA teams. For instance, I remember asking how we could update browser versions or add new features to execute scripts against an Oracle DB. In addition, the need to interact with a database using SQL is not easy. Looking at a table in a database does not give you information on what is being run. One month into my internship, I landed on the migration project and some initial source-code of a framework which was discussed 5 years ago. The blueprint was there, but the framework still was not finished. The framework needed major tune-ups and fixing so that it would be usable with the modern-day approaches.
 
-How I managed the project
+### How I managed the project
 
 Personally, I excel in ambiguous projects which require careful thinking, strategizing, and planning to achieve. However, the main problem with ambiguity is that there is not always a clear idea of what needs to be done. My manager and my team decided to first discuss the requirements for the migration project in a holistic view. We defined what our main objectives were at the very start:
 
@@ -119,7 +119,7 @@ I put a lot of emphasis on building good unit tests and expanding our code cover
 
 ### Authorization and Authentication
 
-For authorization and authentication, I worked on support for three main methods. The first method was through an Excel file for storing credentials. The second method was through hard coded values, and the third method was through Azure Key Vault. The mechanisms for all three allow any QA team to operate efficiently and allow for any project team to use the framework.
+For authorization and authentication, I worked on support for three main methods. The first method was through an Excel file for storing credentials. The second method was through hard coded values, and the third method was through Azure Key Vault. The mechanisms for all three allow any QA team to operate efficiently and allow for any project team to use the framework. I worked with one of my mentors and later realized tat there are a lot of additional things to consider for authorization and authentication that I had not thought about at first.
 
 ### Azure DevOps
 
@@ -127,31 +127,31 @@ For Azure DevOps, I worked extensively with the Azure DevOps Test Management API
 
 ### Results Reporting
 
-Result reporting was a huge challenge at first in Azure DevOps. There was always duplication of Test Case and Test Plan details, and the results were not clear. I worked on making the results more aligned and preventing duplication of results. I ran into batching issues which is when REST API is overloading. I overcame this by using client libraries instead of APIs which enabled batching requests. I also enabled async functionalities where possible.
+Result reporting was a huge challenge at first in Azure DevOps. There was always duplication of Test Case and Test Plan details, and the results were not clear. I worked on making the results more aligned and preventing duplication of results. I ran into API throttling issues which is when REST API gets hit thousands of times. I overcame this by using client libraries instead of APIs which enabled batching requests such as update/add of test cases. I also enabled async functionalities where possible so that the framework would be as quick as possible.
 
 I worked on email reporting and designing robust copies of execution results via email. I created an HTML template for results reporting which would be filled out at the end of the execution. Then I created two copies of the HTML: one that could be embedded in an email (static html) and one which could have embedded JavaScript for viewing results in an accordion.
 
 ### Deployment of Code
 
-This took a long time to understand. Initially, I packaged the framework and threw it into a network drive. I also created a self-extracting zip file and msi files for users to navigate through. I created bash scripts, power shell scripts, and other scheduled scripts to execute tests. I also created excels with embedded VBA to execute tests. At some point I also created a C# windows application that would allow users to interact with the executable.
+The deployment and exeecution environment set up took a large portion of my internship. Initially, I packaged the framework and threw it into a network drive. I also created a self-extracting zip file and msi files for users to navigate through. I created bash scripts, power shell scripts, and other scheduled scripts to execute tests. I also created excels with embedded VBA to execute tests. My team lead also gave me access to AnyDesk, SSH, and RDP software to conduct executions across machines. I also played around with Virtualbox. At some point I also created a C# windows application that would allow users to interact with the executable. 
 
-However, this turned out to be hard to use and difficult to view central results. I eventually landed on the benefits of using the Azure pipelines and agent pools to deploy the code to on-prem machines. My manager and I managed to install agents on all our on-prem machines and then deploy the latest framework to those machines. I investigated publishing NuGet packages and creating binaries for users to use. I also investigated the possibilities of creating Artifacts in DevOps and sending them to users.
+However, this turned out to be hard to use and difficult to manage. I eventually landed on the benefits of using the Azure pipelines and agent pools to deploy the code to on-prem machines and execute tests across agents. My manager and I managed to install agents on all our on-prem machines (10+ Windows Servers) and then deploy the latest framework to those machines. I investigated publishing NuGet packages and creating binaries for users to use. I also investigated the possibilities of creating Artifacts in DevOps and sending them to users.
 
 I spent a lot of time developing pipelines and creating parallel executions available in Azure DevOps. I played around with Deployment Pools, Agent Pools, and Azure Pipelines quite a bit to figure out how to deploy the testing framework to users.
 
-The idea that I landed on was to deploy the framework’s-built code to self-hosted agents on QA servers, then reference that path on a different pipeline’s executable. If the latest framework is deployed to the right folder, we will not have to worry about deploying the framework manually.
+The idea that I landed on was to deploy the framework’s-built code to self-hosted agents on QA servers, then reference that path on a different pipeline’s executable. Any project using the same Agent Pool would thereby be able to execute tests using the framework. If the latest framework is deployed to the right folder, we would not have to worry about deploying the framework manually.
 
 ### Documentation
 
-I started a markdown readme format for documentation. I enabled our wiki to have documentation which could be referenced and sent to all teams. I created mechanisms for users to report bugs in the framework and for users to fix bugs. I wrote documentation on how users can create Work Items and then how to triage them. I also created some KT videos, ran KT sessions, and interacted with QA teams for requirements gathering.
+I started a markdown readme format for documentation. I enabled our wiki to have documentation which could be referenced and sent to all teams. I created mechanisms for users to report bugs in the framework and for users to fix bugs. I wrote documentation on how users can create Work Items and then how to triage them. I also created some KT videos, ran KT sessions, and interacted with QA teams for requirements gathering. To complement this all, I created a Azure DevOps Wiki repo which contained all important system information. I also created a Canvas course on testing and automation.
 
 ### Data Files
 
-I worked converting Oracle Database tables into Excel, but I also worked with XML and JSON interpretations of the framework. The problem with non-column centered formats was that it was hard to interact with the tests. For Excel based test steps, it is easy to delete, add, and remove test steps.
+I worked on converting Oracle Database tables into Excel and worked with XML and JSON interpretations of the framework. The problem with non-column centered formats was that it was hard to interact with the tests. For Excel based test steps, it is easy to delete, add, and remove test steps.
 
 ### SQL Enhancements
 
-I worked on SQL enhancements so that applications could be restarted at their initial states. I worked on developing scripts that reset states to Open or Input from Closed or Submitted states. This avoided having to run DB refreshes and allowed tests to start from the same initial state every time.
+I worked on SQL enhancements so that applications could be restarted at their initial states. I worked on developing scripts that reset states to Open or Input from Closed or Submitted states. This avoided having to run DB refreshes and allowed tests to start from the same initial state every time. These I included into my automation framework. DB credentials I stored in Azure KeyVault and learned dabout authentication into the key vaults.
 
 ### Parameterization
 
@@ -160,6 +160,8 @@ I wanted to enable parameterization of testing so that tests could be executed w
 ### Browsers
 
 I investigated browser issues such as driver issues. I investigated updating test binaries from chromium to chrome for testing to the default browsers installed. I spent a lot of effort into determining how to isolate browsers and enable execution isolation and environment segregation. I wanted to avoid flaky tests and enable automation results to be more robust.
+
+During my internship, I learned about differences in chromium based vs firefox based browsers. I also was able to experiement with different versions of browsers to find different features of browsers.
 
 ### Packaging
 
@@ -179,3 +181,4 @@ I worked with another colleague on running a Playwright POC and testing out how 
 ## Summary
 
 Overall, this project was an incredibly fun project which allowed me to experience developing working software from start to finish. During the project, I learned everything from writing reusable software, building, and deploying software, getting requirements and feedback, and creating new features.
+
